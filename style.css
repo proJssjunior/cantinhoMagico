@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: #292663;
+    background-image: url(/0cb402d9e7b5efa5e467ce50ada3ea81.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    font-family: 'Pacifico', cursive;
+    font-size: 1.5em;
+    margin-top: 110px;
+    margin-left: 60px;
+    color: white;
+    width: 70%;
+    height: 130px;
+}
+
+img {
+    border: 1px solid white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    padding: 18px;
+    border-radius: 50px;
+    width: 30%;
+}
+
+.btn {
+    margin-top: 350px;
+    margin-left: 150px;
+
+}
+
+
+audio {
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 50px;
+    background-color: #292663;
+}
